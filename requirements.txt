@@ -1,5 +1,5 @@
-gradio==3.41.2
-apscheduler==3.10.1
-pytz==2023.3
 SQLAlchemy==2.0.17  # Add the appropriate version
-gunicorn 
+gunicornFlask
+APScheduler
+SQLAlchemy
+pytz
